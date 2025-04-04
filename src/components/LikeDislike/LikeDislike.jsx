@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext } from "react";
+import React, { useState } from "react";
 import { SlLike } from "react-icons/sl";
 import { SlDislike } from "react-icons/sl";
 import axios from "../../Api/axios";
